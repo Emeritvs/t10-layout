@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="LearnIn" title="T10 Bank Layout" src=".github/logo.png" width="50%" />
+    <img alt="T10 Bank Layout" title="T10 Bank Layout" src=".github/logo.png" width="50%" />
 </h1>
 
 <p align="center">
@@ -31,6 +31,21 @@ O Layout foi criado para a realização de um teste de emprego para a T10 Bank.
 
 Para executar o projeto em sua máquina/dispostivo, serão necessários os seguintes recursos instalados:
 
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com)(Opcional)
+
+Para realizar uma cópia deste projeto em sua máquina utilize o seguinte comando na pasta desejada atráves do prompt/terminal de comando do seu sistema:
+
+-git clone https://github.com/Emeritvs/t10-layout.git
+
+Com o [Node](https://nodejs.org/en/) instalado anteriormente acesse a pasta com os arquivos clonados do repositório e execute o seguinte comando:
+
+-npm install
+
+Após a instalação das dependências (comando anterior) execute o seguinte comando para realizar  a compilação do projeto e exibi-lo em seu navegador:
+
+-npm start
+-yarn start (caso tenha instalado o [Yarn](https://yarnpkg.com))
 
 ## 🔖 Layout
 
