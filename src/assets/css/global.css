@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;600;700&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+#root {
+  height: 100vh;
+  width: 100vw;
+}
+
+.section-title {
+  color: #F97270;
+}
+
+.section-subtitle {
+  color: #151D41;
+}
+
+.josefin-regular {
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+}
+
+.josefin-semi {
+  font-family: 'Josefin Sans';
+  font-weight: 600;
+}
+
+.josefin-bold {
+  font-family: 'Josefin Sans';
+  font-weight: 800;
+}
+
+.title-div {
+  position: relative;
+}
+
+.title-text {
+  position: relative;
+}
+
+.title-shadow {
+  background: #F97270;
+  height: 50%;
+  color: transparent;
+  position: absolute;
+  opacity: 0.1;
+  transform: translate(10%, -80%);
+}
+
+.subtitle-shadow {
+  background: #F97270;
+  height: 50%;
+  color: transparent;
+  position: absolute;
+  opacity: 0.1;
+  transform: translate(0%, -100%);
+}
+
+.short-shadow {
+  transform: translate(-5%, -100%);
+}
+
+.long-shadow {
+  transform: translate(10%, -100%);
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+}
+
+.transparent-text {
+  color: transparent !important;
+  background: transparent !important;
+}
+
+@media (max-width: 575.98px) {
+  .short-shadow {
+    transform: translate(0%, -100%);
+  }
+  
+  .long-shadow {
+    transform: translate(0%, 40%);
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}

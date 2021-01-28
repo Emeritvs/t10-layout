@@ -1,0 +1,43 @@
+.title-text {
+  font-weight: 500;
+}
+
+.title-bold {
+  font-weight: 800;
+}
+
+.subtitle {
+  color: #455A64;
+}
+
+.more-button {
+  background: #F97270;
+  border-radius: 26px;
+  opacity: 1;
+  font-family: 'Josefin Sans';
+  font-weight: 600;
+}
+
+.more-image {
+  height: 100%;
+}
+
+@media (max-width: 575.98px) { 
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}

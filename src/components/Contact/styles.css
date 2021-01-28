@@ -1,0 +1,13 @@
+
+.contact-input {
+  border: 1px solid #151D41;
+  border-radius: 5px;
+}
+
+.contact-input::placeholder {
+  color: #151D41;
+}
+
+.contact-border {
+  transform: translate(-150%, -50%);
+}
