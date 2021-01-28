@@ -45,6 +45,7 @@ Com o [Node](https://nodejs.org/en/) instalado anteriormente acesse a pasta com 
 Após a instalação das dependências (comando anterior) execute o seguinte comando para realizar  a compilação do projeto e exibi-lo em seu navegador:
 
 -npm start
+
 -yarn start (caso tenha instalado o [Yarn](https://yarnpkg.com))
 
 ## 🔖 Layout
