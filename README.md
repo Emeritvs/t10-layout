@@ -58,6 +58,7 @@ Nos links abaixo você encontra o layout do projeto web. Lembrando que você pre
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Logotipos utilizado se encontram sobre domínio de T10 Bank, para uso externo, realizar contato com a empresa. 
 
 ---
 
