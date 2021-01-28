@@ -6,7 +6,7 @@ import './styles.css';
 
 function Services(){
   return(
-    <div id="services" className="col-span-1 grid grid-cols-1 p-10 md:px-20 md:h-screen">
+    <div id="services" className="col-span-1 grid grid-cols-1 p-10 md:px-20">
       {/* Services Header */}
       <div className="col-span-1 flex flex-col justify-center content-center">
         <div className="flex justify-center content-center">
