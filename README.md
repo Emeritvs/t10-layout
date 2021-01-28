@@ -45,7 +45,7 @@ Com o [Node](https://nodejs.org/en/) instalado anteriormente acesse a pasta com 
 Após a instalação das dependências (comando anterior) execute o seguinte comando para realizar  a compilação do projeto e exibi-lo em seu navegador:
 
 -npm start
-
+ou
 -yarn start (caso tenha instalado o [Yarn](https://yarnpkg.com))
 
 ## 🔖 Layout
@@ -61,4 +61,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Projeto feito por Guilherme Gomes (Emeritvs) para a matéria de Redes e Sistemas Distribuídos durante a faculdade de Ciência da Computação :wave:
+Projeto desenvolvido por Guilherme Gomes (Emeritvs) em teste para T10 Bank :wave:
