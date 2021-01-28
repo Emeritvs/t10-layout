@@ -34,7 +34,7 @@ O Layout foi criado para a realização de um teste de emprego para a T10 Bank.
 Para executar o projeto em sua máquina/dispostivo, serão necessários os seguintes recursos instalados:
 
 - [Node.js](https://nodejs.org/en/)
-- [Yarn](https://yarnpkg.com)(Opcional)
+- [Yarn](https://yarnpkg.com) (Opcional)
 
 Para realizar uma cópia deste projeto em sua máquina utilize o seguinte comando na pasta desejada atráves do prompt/terminal de comando do seu sistema:
 
