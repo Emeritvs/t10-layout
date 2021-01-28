@@ -4,7 +4,7 @@ import './styles.css';
 
 function Contact(){
   return(
-    <div id="contact" className="col-span-1 grid grid-cols-1 landing-content md:h-screen mt-20 md:mt-0 mb-40">
+    <div id="contact" className="col-span-1 grid grid-cols-1 landing-content mt-20 md:mt-0 mb-40">
 
       <div className="col-span-1 flex flex-col justify-center content-center">
         <div className="flex justify-center content-center">

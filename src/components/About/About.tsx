@@ -5,7 +5,7 @@ import './styles.css';
 
 function About(){
   return(
-    <div id="about" className="col-span-1 grid grid-cols-1 p-10 md:h-screen md:mb-20">
+    <div id="about" className="col-span-1 grid grid-cols-1 p-10 md:mb-20">
       <div className="col-span-1 flex justify-center content-center mb-20 md:mb-0">
         <div className="flex">
           <div className="title-div">
