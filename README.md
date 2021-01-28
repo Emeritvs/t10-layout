@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 O Layout foi criado para a realização de um teste de emprego para a T10 Bank.
 
--[Versão Demo Web (responsivo para mobile)](https://t10-layout.web.app)
+- [Versão Demo Web (responsivo para mobile)](https://t10-layout.web.app)
 
 ## 🔧 Instalação
 
