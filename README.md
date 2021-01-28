@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 O Layout foi criado para a realização de um teste de emprego para a T10 Bank.
 
-## 🔖 Instalação
+## 🔧 Instalação
 
 Para executar o projeto em sua máquina/dispostivo, serão necessários os seguintes recursos instalados:
 
