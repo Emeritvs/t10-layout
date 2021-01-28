@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="LearnIn" title="Learnin" src=".github/logo.png" width="50%" />
+    <img alt="LearnIn" title="T10 Bank Layout" src=".github/logo.png" width="50%" />
 </h1>
 
 <p align="center">
@@ -25,22 +25,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Tailwind CSS](https://tailwindcss.com)
 
 ## 💻 Projeto
-O Layout foi criado para a realização de um teste para a T10 Bank
-- [Versão Web Funcional](https://projeto-sdv.web.app)
-- [Versão App] Para testar a versão app (PWA) do site, será necessário executar os passos do tópico <a href="#-instalação">Instalação</a>.
+O Layout foi criado para a realização de um teste de emprego para a T10 Bank.
 
 ## 🔖 Instalação
 
 Para executar o projeto em sua máquina/dispostivo, serão necessários os seguintes recursos instalados:
 
-- [Layout Web](https://xd.adobe.com/view/a391bccf-1751-41c8-bb79-1604a1fbbbaf-f6c2/specs/) (Criado por T10 Bank)
 
 ## 🔖 Layout
 
-Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+Nos links abaixo você encontra o layout do projeto web. Lembrando que você precisa ter uma conta no [Adobe](https://www.adobe.com) para acessá-lo.
 
-- [Layout Web](Em breve)
-- [Layout Mobile](Em breve)
+- [Layout Web](https://xd.adobe.com/view/a391bccf-1751-41c8-bb79-1604a1fbbbaf-f6c2/specs/) (Criado por T10 Bank)
 
 
 ## :memo: Licença
