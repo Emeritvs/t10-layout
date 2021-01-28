@@ -38,17 +38,17 @@ Para executar o projeto em sua máquina/dispostivo, serão necessários os segui
 
 Para realizar uma cópia deste projeto em sua máquina utilize o seguinte comando na pasta desejada atráves do prompt/terminal de comando do seu sistema:
 
--git clone https://github.com/Emeritvs/t10-layout.git
+```git clone https://github.com/Emeritvs/t10-layout.git```
 
 Com o [Node](https://nodejs.org/en/) instalado anteriormente acesse a pasta com os arquivos clonados do repositório e execute o seguinte comando:
 
--npm install
+```npm install```
 
 Após a instalação das dependências (comando anterior) execute o seguinte comando para realizar  a compilação do projeto e exibi-lo em seu navegador:
 
--npm start
-ou
--yarn start (caso tenha instalado o [Yarn](https://yarnpkg.com))
+```npm start```
+ou 
+```yarn start``` (caso tenha instalado o [Yarn](https://yarnpkg.com))
 
 ## 🔖 Layout
 
